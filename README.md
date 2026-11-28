@@ -1,6 +1,6 @@
 # M772 Data Transmit Receive Module · Communication
 
-Ward-Beck Systems M772. Wiki page: [M772 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M772.html)
+Ward-Beck Systems M772. Wiki page: [M772 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M772-Data-Transmit-Receive-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

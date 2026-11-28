@@ -1,5 +1,5 @@
 # 19xx - 772-01-001 - DATA TRANSMIT RECEIVE MODULE FUNCTIONAL - ISS 1.jpg
-Wiki page: [M772](../../../../PAGES/M772.md)
+Wiki page: [M772](../)
 
 
 - **Year:** unknown (title block (read by eye))
